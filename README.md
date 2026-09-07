@@ -21,10 +21,7 @@ I enjoy building practical solutions, from conceptualizing UI/UX designs to deve
 
 - **INTELEARN (Interactive Learning Intelligent System)**  
   *An emotion-aware, AI-driven learning management system built as a university capstone project. Features a React Native frontend and secure Express authentication routes.*
-
-- **RideWise**  
-  *A smart, localized ride-booking mobile application framework designed specifically for Sri Lankan users to provide a smarter, safer, and highly personalized riding experience.*
-
+  
 - **Ecobber**  
   *A manufacturing-focused website project designed to highlight and promote eco-friendly rubber production.*
 
