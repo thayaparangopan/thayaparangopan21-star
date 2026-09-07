@@ -45,9 +45,9 @@ _Once you publish repos, update these links like:_
 
 ## 🤝 Connect with Me
 
-- **GitHub:** [@thayaparangopan21-star](https://github.com/thayaparangopan21-star)  
-- **LinkedIn:** *(add your link here, e.g., https://www.linkedin.com/in/… )*  
-- **Email:** *(add a contact email if you want)*
+- **GitHub:** [@thayaparangopan](https://github.com/thayaparangopan)  
+- **LinkedIn:** *(https://www.linkedin.com/in/gopan-thayaparan-47a503292/)*  
+- **Email:** *(thayaparangopan22@gmail.com)*
 
 ---
 
