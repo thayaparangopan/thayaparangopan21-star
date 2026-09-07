@@ -1,71 +1,57 @@
 # Hi there, I'm Thayaparan Gopan 👋
 
 Undergraduate at **Sabaragamuwa University of Sri Lanka**  
-Pursuing **BSc (Hons) in Information Systems** • **Aspiring Data Scientist**
+Pursuing **BSc (Hons) in Information Systems** • **Full-Stack & Mobile Developer**
 
-I enjoy building practical solutions and learning by doing. Recently took part in a **website-creating competition**, and I’m now exploring data science foundations while sharpening my web skills.
+I enjoy building practical solutions, from conceptualizing UI/UX designs to developing full-stack applications. I am passionate about creating intuitive user experiences and integrating smart features into modern mobile and web apps.
 
 ---
 
 ## 🧰 Skills & Technologies
 
-- **Languages:** C | Java | JavaScript
-- **Web:** HTML5 | CSS3 | Basic React concepts
-- **Tools:** Git & GitHub | VS Code
-- **Interests:** Data Science, Databases, System Design, DSA (with Java)
+- **Languages:** JavaScript | Java | C | SQL
+- **Frontend & Mobile:** React Native | React | HTML5 | CSS3
+- **Backend & Database:** Node.js | Express.js | PostgreSQL
+- **Design & Tools:** Figma | Canva | Git & GitHub | VS Code
+- **Interests:** UI/UX Prototyping, Full-Stack Architecture, AI-Driven Applications, System Design
 
 ---
 
 ## 🚀 Featured Projects
 
-> I’m just getting started on GitHub—projects coming soon!
-- **Library System** – (planned) a simple CRUD app for books & members
-- **Personal Portfolio** – (planned) my portfolio built with HTML/CSS/JS
+- **INTELEARN (Interactive Learning Intelligent System)**  
+  *An emotion-aware, AI-driven learning management system built as a university capstone project. Features a React Native frontend and secure Express authentication routes.*
 
-_Once you publish repos, update these links like:_
-- `Library System` → `https://github.com/thayaparangopan21-star/library-system`
-- `Portfolio` → `https://github.com/thayaparangopan21-star/portfolio`
+- **RideWise**  
+  *A smart, localized ride-booking mobile application framework designed specifically for Sri Lankan users to provide a smarter, safer, and highly personalized riding experience.*
+
+- **Ecobber**  
+  *A manufacturing-focused website project designed to highlight and promote eco-friendly rubber production.*
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning & Exploring
 
-- Strengthening **Data Structures & Algorithms** in Java  
-- Fundamentals of **Databases (SQL)** and **System Design**
+- Building scalable **React Native** mobile applications
+- Designing comprehensive user interfaces and design systems in **Figma**
+- Exploring AI workflows and data annotation 
 
 ---
 
 ## 📊 GitHub Stats
 
-> These cards will show once you have some activity. You can keep or remove them.
-![Gopan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thayaparangopan21-star&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayaparangopan21-star&layout=compact)
+![Gopan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thayaparangopan21-star&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayaparangopan21-star&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Connect with Me
 
 - **GitHub:** [@thayaparangopan](https://github.com/thayaparangopan)  
-- **LinkedIn:** *(https://www.linkedin.com/in/gopan-thayaparan-47a503292/)*  
-- **Email:** *(thayaparangopan22@gmail.com)*
+- **LinkedIn:** [Gopan Thayaparan](https://www.linkedin.com/in/gopan-thayaparan-47a503292/)  
+- **Email:** thayaparangopan22@gmail.com
 
 ---
 
 ### 🌱 Fun fact
-I like turning class projects into real apps—and I’m always up for learning something new.
-
-
-<!--
-**thayaparangopan21-star/thayaparangopan21-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love blending technical architecture with creative design—and I have a deep appreciation for classical literature and poetry when I'm not coding!
